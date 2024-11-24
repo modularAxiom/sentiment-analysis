@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+tensorflow
+tf-keras
+transformers
+streamlit
+wordcloud
+imbalanced-learn
+tqdm
