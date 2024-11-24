@@ -5,7 +5,6 @@ seaborn
 scikit-learn
 nltk
 tensorflow
-tf-keras
 transformers
 streamlit
 wordcloud
