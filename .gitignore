@@ -24,5 +24,7 @@ Thumbs.db
 .env
 
 # Ignore all large data files
-data/*
+data/processed/*
+data/raw/*
+data/raw.zip
 
