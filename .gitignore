@@ -22,6 +22,7 @@ Thumbs.db
 
 # Environment variables
 .env
+.venv
 
 # Ignore all large data files
 data/processed/*
