@@ -1,5 +1,5 @@
 # Implements functions for Tokenization and Encoding with the help of the
-# powerful BERT tokenizer to capture the contextual relationships between words
+# BERT tokenizer to capture the contextual relationships between words
 
 from transformers import BertTokenizer
 
@@ -7,7 +7,7 @@ def get_tokenizer():
     """
     Loads the pretrained BERT tokenizer and returns a transformer object.
     """
-    tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+    tokenizer = BertTokenizer.from_pretrained('bert-base-cased')
     return tokenizer
 
 
