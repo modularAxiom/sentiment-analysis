@@ -27,6 +27,6 @@ Thumbs.db
 # Ignore all large data files
 data/processed/*
 data/raw/*
-data/raw.zip
+
 
 
